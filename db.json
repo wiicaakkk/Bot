@@ -1,0 +1,88 @@
+{
+  "allowedUsers": [
+    {
+      "phone": "6281278785508",
+      "name": "RIZKY",
+      "isAdmin": true,
+      "id": 1
+    },
+    {
+      "phone": "6288232303953",
+      "name": "TONNY",
+      "isAdmin": true,
+      "id": 5
+    },
+    {
+      "phone": "6285276053973",
+      "name": "KENNY",
+      "isAdmin": true,
+      "id": 7
+    },
+    {
+      "phone": "6289611496974",
+      "name": "SYAHNAZ",
+      "isAdmin": true,
+      "id": 16
+    },
+    {
+      "phone": "6281291757299",
+      "name": "DWI",
+      "isAdmin": true,
+      "id": 23
+    },
+    {
+      "phone": "6282385868787",
+      "name": "DANI",
+      "isAdmin": true,
+      "id": 26
+    },
+    {
+      "phone": "628983428766",
+      "name": "BETHA",
+      "isAdmin": true,
+      "id": 28
+    },
+    {
+      "phone": "6285174163316",
+      "name": "SYAHNAZ",
+      "isAdmin": true,
+      "id": 29
+    },
+    {
+      "phone": "6285156004326",
+      "name": "ASHFI",
+      "isAdmin": true,
+      "id": 30
+    },
+    {
+      "phone": "6282223259114",
+      "name": "BAGUS",
+      "isAdmin": true,
+      "id": 32
+    },
+    {
+      "phone": "6281293142053",
+      "name": "AJENG",
+      "isAdmin": true,
+      "id": 34
+    },
+    {
+      "phone": "62895634753158",
+      "name": "ADYT",
+      "isAdmin": false,
+      "id": 35
+    },
+    {
+      "phone": "6287748688157",
+      "name": "DEAN",
+      "isAdmin": false,
+      "id": 36
+    },
+    {
+      "phone": "6281281797215",
+      "name": "VITO",
+      "isAdmin": true,
+      "id": 37
+    }
+  ]
+}
